@@ -1,6 +1,6 @@
 # DSOOP-Assignment
  Assignment dealing with complex number,differnt operations on it and lastly linklist of complex numbers
-link to respository https://github.com/OOPDS-CEME-NUST/linked-list-assignment-01-Usamaqamar597
+link to respository 
                                                   STEPS TO FOLLOW
 
 1- Open the source file uploaded with the name "mha.cpp" on any IDE (Visual Studio 2010 is Prefferable).
